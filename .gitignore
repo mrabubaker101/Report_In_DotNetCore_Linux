@@ -1,0 +1,11 @@
+/Web_ForReport_Core/bin
+/Web_ForReport_Core/obj
+
+/Microsoft.ReportViewer.ProcessingObjectModel/bin
+/Microsoft.ReportViewer.ProcessingObjectModel/obj
+/Microsoft.ReportViewer.NETCore/bin
+/Microsoft.ReportViewer.NETCore/obj
+/Microsoft.ReportViewer.DataVisualization/bin
+/Microsoft.ReportViewer.DataVisualization/obj
+/Microsoft.ReportViewer.Common/bin
+/Microsoft.ReportViewer.Common/obj

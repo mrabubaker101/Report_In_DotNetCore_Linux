@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportViewerCore.Sample.AspNetCore", "Web_ForReport_Core\ReportViewerCore.Sample.AspNetCore.csproj", "{95815DDC-40BA-4470-B015-A63A0D8FA4FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.ReportViewer.Common", "Microsoft.ReportViewer.Common\Microsoft.ReportViewer.Common.csproj", "{E64F1099-33FA-430F-8B97-079BD3563036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.ReportViewer.DataVisualization", "Microsoft.ReportViewer.DataVisualization\Microsoft.ReportViewer.DataVisualization.csproj", "{E2B4381F-4831-419A-9158-5DA0F2059BEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.ReportViewer.NETCore", "Microsoft.ReportViewer.NETCore\Microsoft.ReportViewer.NETCore.csproj", "{EC02602C-2781-4691-8541-33873F634621}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.ReportViewer.ProcessingObjectModel", "Microsoft.ReportViewer.ProcessingObjectModel\Microsoft.ReportViewer.ProcessingObjectModel.csproj", "{DA216FC7-78CD-4289-9862-C70A6064450D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95815DDC-40BA-4470-B015-A63A0D8FA4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95815DDC-40BA-4470-B015-A63A0D8FA4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95815DDC-40BA-4470-B015-A63A0D8FA4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95815DDC-40BA-4470-B015-A63A0D8FA4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64F1099-33FA-430F-8B97-079BD3563036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F1099-33FA-430F-8B97-079BD3563036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F1099-33FA-430F-8B97-079BD3563036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F1099-33FA-430F-8B97-079BD3563036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B4381F-4831-419A-9158-5DA0F2059BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B4381F-4831-419A-9158-5DA0F2059BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B4381F-4831-419A-9158-5DA0F2059BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B4381F-4831-419A-9158-5DA0F2059BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC02602C-2781-4691-8541-33873F634621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC02602C-2781-4691-8541-33873F634621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC02602C-2781-4691-8541-33873F634621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC02602C-2781-4691-8541-33873F634621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA216FC7-78CD-4289-9862-C70A6064450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA216FC7-78CD-4289-9862-C70A6064450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA216FC7-78CD-4289-9862-C70A6064450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA216FC7-78CD-4289-9862-C70A6064450D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162BDCA2-074A-4C78-B1AE-A6320A494D62}
+	EndGlobalSection
+EndGlobal
