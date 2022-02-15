@@ -13,7 +13,6 @@ namespace ReportViewerCore
             //or from the entry point to the application - there is a difference!
             var test = Assembly.GetExecutingAssembly().GetManifestResourceNames();
 
-
             var parameters = new[] { new ReportParameter("Title", "Invoice 4/2020") };
               //var rs = Assembly.GetExecutingAssembly().GetManifestResourceStream("ReportViewerCore.Sample.AspNetCore.Reports.Report.rdlc");
               var rs = Assembly.
